@@ -283,9 +283,9 @@ El alcance exacto del MVP deberá aprobarse en el documento de requisitos.
 
 ---
 
-# 7. MODELO DE NEGOCIO: HIPÓTESIS INICIAL
+# 7. MODELO DE NEGOCIO
 
-Sau Yul-Tech evaluará un modelo comercial híbrido que podría combinar:
+Sau Yul-Tech adoptará un modelo comercial híbrido de plataforma digital, dispositivos IoT y servicios. La investigación de mercado y la validación del negocio son la prioridad inicial. Las modalidades comerciales por evaluar incluyen:
 
 - Suscripción por el uso de la plataforma.
 - Venta de dispositivos tecnológicos.
@@ -293,7 +293,7 @@ Sau Yul-Tech evaluará un modelo comercial híbrido que podría combinar:
 - Servicios de mantenimiento.
 - Capacitación y asistencia técnica.
 
-Este modelo es una hipótesis de trabajo, no una decisión comercial definitiva.
+La composición de los planes y sus modalidades de cobro siguen en evaluación. Consulta la [estrategia empresarial](../01-BUSINESS-STRATEGY/README.md).
 
 Los precios, planes, costos operativos y márgenes deberán establecerse mediante investigación de mercado y validación financiera.
 
@@ -357,7 +357,8 @@ Todos deberán cumplir las siguientes reglas:
 | Cliente inicial: pequeños y medianos productores | Aprobado |
 | Collar inteligente por etapas | Aprobado |
 | Identidad visual oficial | Definida; verificar archivos vigentes |
-| Modelo de negocio | Por investigar |
+| Modelo de negocio | Híbrido aprobado; oferta y precios por validar |
+| Prioridad inicial | Investigación de mercado y validación del negocio |
 | Arquitectura tecnológica | Por definir |
 | Requisitos detallados | Por desarrollar |
 | Diseño UX/UI | Por desarrollar |
