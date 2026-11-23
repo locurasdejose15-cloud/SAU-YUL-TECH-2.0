@@ -1,6 +1,8 @@
 # Sau Yul-Tech
 
-Sau Yul-Tech es un proyecto de tecnología ganadera que explora cómo organizar los registros de finca y facilitar el seguimiento de los animales. La propuesta parte de fichas e historiales digitales y contempla evaluar la integración de sensores y alertas. El enfoque comercial y el alcance de la primera versión están pendientes de aprobación.
+Sau Yul-Tech es un proyecto de agrotecnología que desarrolla un ecosistema integral de software, dispositivos IoT y servicios para pequeños y medianos productores ganaderos de Nicaragua. El proyecto está en planificación y definición.
+
+El [Project Brief v1.0](00-PROJECT-BRIEF/project-brief.md) es la referencia oficial del proyecto.
 
 ## Documentación
 

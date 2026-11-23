@@ -1,11 +1,12 @@
-# Alcance propuesto
+# Alcance del proyecto
 
-## Candidato a primera versión
+El ecosistema comprende software, hardware y servicios para la gestión ganadera. El [Project Brief v1.0](project-brief.md) identifica las prioridades y los límites oficiales.
 
-Validar el registro de fincas y animales, las fichas individuales, el historial de eventos y el acceso según responsabilidades. Confirmar qué registros de salud, reproducción y producción deben cubrirse primero.
+## Prioridades del MVP
 
-## Fuera de la primera versión propuesta
+- Autenticación, organizaciones, fincas, usuarios y permisos.
+- Registro de animales, fichas, historial sanitario y actividades básicas.
+- Dashboard y aplicación móvil con funciones esenciales y sincronización básica sin conexión.
+- Infraestructura preparada para integraciones IoT futuras.
 
-La fabricación y venta del collar, la integración productiva de sensores, la analítica avanzada, la IA y el funcionamiento móvil completo sin conexión se evaluarán por etapas.
-
-La selección de funciones, usuarios y criterios de aceptación requiere aprobación antes de comprometer un lanzamiento. Consulta el [registro de decisiones](../PROJECT-DECISIONS.md).
+El alcance exacto se aprobará en el documento de requisitos. La integración comercial del collar, el monitoreo continuo, la analítica avanzada, la IA, la automatización y los servicios externos corresponden a etapas posteriores. Las capacidades del collar requieren evaluación técnica.

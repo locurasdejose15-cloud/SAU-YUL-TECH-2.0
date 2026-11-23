@@ -1,12 +1,5 @@
 # Visión y objetivos
 
-Facilitar que los equipos ganaderos mantengan registros confiables, encuentren información a tiempo y tomen decisiones con el contexto de cada animal.
+Construir un ecosistema de agrotecnología que integre electrónica, software y análisis de datos para ofrecer soluciones prácticas a la ganadería. La prioridad es validar su utilidad con productores de Nicaragua antes de evaluar la expansión a Centroamérica y Latinoamérica.
 
-## Objetivos propuestos
-
-- Validar qué tareas de registro y consulta generan mayor dificultad en las fincas.
-- Diseñar un historial que permita reconstruir qué ocurrió, cuándo y quién registró cada evento.
-- Evaluar la facilidad de uso en condiciones reales de trabajo y conectividad.
-- Medir el valor del monitoreo con sensores antes de decidir su papel comercial.
-
-Durante los pilotos se pueden observar el tiempo para localizar un historial, la completitud de las fichas y los errores de registro. Las metas se acordarán después de medir la situación inicial.
+Los objetivos incluyen digitalizar fincas y animales, facilitar el acceso móvil, incorporar monitoreo progresivo y establecer un modelo comercial sostenible. La [visión oficial](project-brief.md#2-visión-del-proyecto) desarrolla la misión y los objetivos estratégicos.

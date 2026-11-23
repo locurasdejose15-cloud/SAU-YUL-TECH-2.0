@@ -1,6 +1,6 @@
 # Colaboración en Sau Yul-Tech
 
-Consulta el [Project Brief](00-PROJECT-BRIEF/) y el [registro de decisiones](PROJECT-DECISIONS.md) antes de proponer o implementar cambios. Usa este repositorio como referencia compartida.
+Consulta el [Project Brief oficial](00-PROJECT-BRIEF/project-brief.md) y el [registro de decisiones](PROJECT-DECISIONS.md) antes de proponer o implementar cambios. Usa este repositorio como referencia compartida.
 
 | Agente | Responsabilidad | Carpetas |
 | --- | --- | --- |
