@@ -7,7 +7,7 @@ El [Project Brief v1.0](00-PROJECT-BRIEF/project-brief.md) es la referencia ofic
 ## Documentación
 
 - [Definición del proyecto](00-PROJECT-BRIEF/)
-- [Estrategia de negocio](01-BUSINESS-STRATEGY/)
+- [Estrategia de negocio](01-BUSINESS-STRATEGY/README.md)
 - [Identidad de marca](02-BRAND-IDENTITY/)
 - [Sistema de diseño](03-DESIGN-SYSTEM/)
 - [Arquitectura](04-ARCHITECTURE/)
